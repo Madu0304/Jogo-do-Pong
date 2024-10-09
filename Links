@@ -49,3 +49,5 @@ marcaPonto()
  function movimentaBolinha() {
  xBolinha += velocidadeXBolinha;
  yBolinha += v
+
+Scratch -> https://scratch.mit.edu/projects/1052904039
